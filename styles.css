@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+table,th,tr,td{
+	border:1px solid black;
+	width:100%;
+}
+.src{
+	width:200px;
+	height:200px;
+}
